@@ -12,6 +12,7 @@ class Program
         {
             Console.Write(num + " ");
         }
+        Console.Readline();
     }
 
     static void Quicksort(int[] arr)
